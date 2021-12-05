@@ -1,1 +1,1 @@
-Testingg some git features. Made some change.
+Testing some git features. Made some change.
