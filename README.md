@@ -6,3 +6,6 @@ bug fixed (bug_fix branch).
 New feature (feature_branch).
 
 Another feature.
+
+Remote branch.
+
